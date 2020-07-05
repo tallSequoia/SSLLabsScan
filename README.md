@@ -1,9 +1,13 @@
 # SSLLabsScan
+
+##Introduction
 Download SSLLabs scan results via command line.
 
 Releases are for .NET Framework 4.6.1 (All supported Windows OS) and for dotnet core for Linux and MaxOS (latter untested).
 
-Command line options:
+##Command line
+
+The following options are provided:
 
  -t, --hostnames         Hostnames to scan (comma separated). e.g. rod.example.com,jane.example.com
 
@@ -36,7 +40,7 @@ Command line options:
   --version               Display version information.
 
 
-Examples:
+##Examples:
 
 1. Quick scan result. Do a scan with standard settings and view the results in the command line shell
 
