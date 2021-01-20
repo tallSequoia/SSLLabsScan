@@ -1,9 +1,9 @@
-# SSLLabsScan
+# SSLLabs Scan
 
 ## Introduction
 Download SSLLabs scan results via command line.
 
-Releases are for .NET Framework 4.6.1 (All supported Windows OS) and for dotnet core for Linux and MaxOS (latter untested).
+Releases are for .NET Framework 4.6.1 (All supported Windows OS) and for dotnet core for Linux and MacOS (latter untested).
 
 ## Command line
 
